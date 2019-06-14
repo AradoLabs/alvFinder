@@ -1,0 +1,11 @@
+C:\Users\Tiina\source\repos\falvStorage\bin\Debug\netcoreapp2.1\falvStorage.deps.json
+C:\Users\Tiina\source\repos\falvStorage\bin\Debug\netcoreapp2.1\falvStorage.runtimeconfig.json
+C:\Users\Tiina\source\repos\falvStorage\bin\Debug\netcoreapp2.1\falvStorage.runtimeconfig.dev.json
+C:\Users\Tiina\source\repos\falvStorage\bin\Debug\netcoreapp2.1\falvStorage.dll
+C:\Users\Tiina\source\repos\falvStorage\obj\Debug\netcoreapp2.1\falvStorage.csprojAssemblyReference.cache
+C:\Users\Tiina\source\repos\falvStorage\obj\Debug\netcoreapp2.1\falvStorage.csproj.CoreCompileInputs.cache
+C:\Users\Tiina\source\repos\falvStorage\obj\Debug\netcoreapp2.1\falvStorage.AssemblyInfoInputs.cache
+C:\Users\Tiina\source\repos\falvStorage\obj\Debug\netcoreapp2.1\falvStorage.AssemblyInfo.cs
+C:\Users\Tiina\source\repos\falvStorage\bin\Debug\netcoreapp2.1\falvStorage.pdb
+C:\Users\Tiina\source\repos\falvStorage\obj\Debug\netcoreapp2.1\falvStorage.dll
+C:\Users\Tiina\source\repos\falvStorage\obj\Debug\netcoreapp2.1\falvStorage.pdb
